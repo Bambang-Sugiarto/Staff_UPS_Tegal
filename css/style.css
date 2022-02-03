@@ -1,0 +1,129 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.img
+{
+    height: 45px;
+    width: 45px;
+    margin-right: 10px;
+}
+
+.main
+{
+    background-image: linear-gradient(to bottom, #dd2476, #ff512f);
+    background-size: cover;
+    height: 100vh;
+    background-position: 50% 50%;
+    width: 100%;
+}
+
+
+.main h1{
+    font-size: 4rem;
+    font-weight: 700;
+    color: white;
+}
+
+.main p{
+    color: white;
+}
+
+.btn1
+{
+    height: 45px;
+    font-weight: 700;
+    width: 35%;
+    border: none;
+    outline: none;
+    border-radius: 50px;
+    background-color: white;
+}
+
+.buku
+{
+    height: 450px;
+}
+
+.main-2
+{
+    height: 300px;
+}
+
+.main-2 h1{
+    font-weight: 700;
+    margin-top: 150px;
+}
+
+.main-3{
+    color: white;
+    background-image: linear-gradient(to bottom, #dd2476, #ff512f);
+    height: 300px;
+    width: 100%;    
+    padding-top: 50px;
+}
+
+.main-3 h1
+{
+    font-weight: 700;
+}
+
+.main-3 input
+{
+    margin-top: 30px;
+    border-radius: 20px;
+}
+.main-3 button
+{
+    margin-top: 10px;
+    width: 100%;
+    border-radius: 20px;
+}
+.cards
+{
+    margin: auto;
+    box-shadow: 0 5px 10px #fefefe;
+    width: 18rem;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    border: 0;
+    border-radius: 20px;
+    
+}
+
+.cards img
+{
+    height: 400px;
+}
+
+.cards h5
+{
+    font-weight: 650;
+}
+
+.judul
+{
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+.judul h1
+{
+    font-weight: 700;
+}
+
+.judul span
+{
+    font-weight: 600;
+    color: green;
+}
+
+.garis
+{
+    width: 70px;
+    height: 10px;
+    color: white;
+}
